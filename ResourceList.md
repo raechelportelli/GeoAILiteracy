@@ -1,1 +1,1 @@
-Please add your resource link to this Markdown file. If you have not used markdown  before you can use this <https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet>
+Please add your resource link to this Markdown file. If you have not used markdown before you can use this reference for tips on how to format your entry - <https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet>
