@@ -7,7 +7,7 @@ This repository is used to share class resources for GGIS 427 GeoAI Literacy. To
 * Dataism - https://dataism.org/
 
 ## Articles
-* Mother Says AI chatbot led son to kill himself in lawsuit against its maker. October 23, 2023. [The Guardian](https://www.theguardian.com/technology/2024/oct/23/character-ai-chatbot-sewell-setzer-death)
+* Mother Says AI chatbot led son to kill himself in lawsuit against its maker. Blake Montgomery. October 23, 2023. [The Guardian](https://www.theguardian.com/technology/2024/oct/23/character-ai-chatbot-sewell-setzer-death)
 * Digital Sovereignty Means Breaking the Western Monopoly on AI Meaning. Sujata Mukherjee, Sasha Maria Mathew / Apr 28, 2026 [TechPolicy.org](https://www.techpolicy.press/digital-sovereignty-means-breaking-the-western-monopoly-on-ai-meaning/)
 
 ### Bots
